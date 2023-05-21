@@ -59,7 +59,7 @@ const Menu = () => {
                 </Link>
               ))}
               <a
-                href="#"
+                href="https://clarifyze.ai/"
                 className={`font-medium text-primary hover:text-secondary`}
               >
                 Clarifyze
