@@ -24,7 +24,7 @@
   "mainHero": {
     "title": "Focus on your business,",
     "subtitle": "we'll take care of the tech.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "img": "/assets/images/happyTeam.png",
     "primaryAction": {
       "text": "Learn More",
       "href": "product"
