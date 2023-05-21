@@ -23,12 +23,12 @@ const Features = () => {
         </div>
 
         <div className="mt-10">
-          <dl className="space-y-10 md:space-y-10 md:grid md:grid-cols-6 md:gap-x-5 md:gap-y-10">
+          <dl className="space-y-5 md:space-y-10 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-6 md:gap-x-5 md:gap-y-10">
             {featuresList.map((feature) => (
               <div key={feature.name} className="relative">
                 <dt>
                   <div
-                    className={`absolute flex center-xs items-center justify-center h-20 bg-background text-tertiary`}
+                    className={`flex center-xs items-center justify-center h-20 bg-background text-tertiary`}
                   >
                     <img
                       className={`inline-block h-20`}
