@@ -1,6 +1,7 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'OKSIA',
+  title: 'OKSIA',
+  description:
+    'Web, mobile, cloud, and prompt-engineering by award-winning engineers.',
   locale: 'en',
 };
